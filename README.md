@@ -1,4 +1,4 @@
-## V-Cred Enabling flash loans in Avalanche
+## V-Cred: Enabling flash loans in Avalanche
 ### Disclaimer: Flashloans are an advanced concept, and I have not added all safeguards since this is an MVP. Please do not use it in production.
 
 This project aims to bring flashloans to Avalanche blockchain. The core concept V-Cred is the safer flash loan design pattern, and implementing it on side-chains.

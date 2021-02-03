@@ -8,4 +8,4 @@ The repository consists of solidity contracts as follows:
 3. Flashloan contract which inherits Ava flash borrower
 4. Deposit pool contracts which inherits AVa flash lender
 
-![alt text](/assets/image1.png)
+![alt text](./assets/image1.png)
